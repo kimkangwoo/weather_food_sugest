@@ -1,0 +1,19 @@
+1. 기상청 
+https://www.weather.go.kr/w/observation/land/past-obs/obs-by-day.do
+
+2. 네이버 지도 음식점 약 300 지점
+https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EC%9D%8C%EC%8B%9D%EC%A0%90?c=11.00,0,0,0,dh
+
+3. 계절 
+https://namu.wiki/w/%EC%97%AC%EB%A6%84
+
+봄 : 3월 ~ 5월
+여름 : 6월 ~ 8월
+가을 : 9월 ~ 11월
+겨울 : 12월 ~ 2월
+
+4. 음식 랜덤 추천 들고오기
+https://m.10000recipe.com/recipe/list.html?q=%EA%B3%A0%EA%B8%B0&order=reco&cat1=&cat2=&cat3=&cat4=&ref=&q_from=#google_vignette
+
+5. 공공 데이터 : 전국 일반 음식점 표준 데이터
+https://www.data.go.kr/data/15096283/standard.do?recommendDataYn=Y
